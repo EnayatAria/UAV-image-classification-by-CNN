@@ -1,5 +1,6 @@
 # UAV-image-classification-by-CNN
-This code if for classifying remote senisng UAV images collected from vineyards using a convolutional neural network (CNN).
+This code if for classifying remote senisng images using a convolutional neural network (CNN).
+It is applied to UAV images collected from vineyards in southern regions in France.
 
 The code is implemented in google colab.
 
