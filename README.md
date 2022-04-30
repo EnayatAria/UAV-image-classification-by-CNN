@@ -2,7 +2,7 @@
 
 # Code 1: CNN_vineyard
 
-This code if for classifying remote senisng images using a convolutional neural network (CNN).
+This code is for classifying remote senisng images using a convolutional neural network (CNN).
 It is applied to UAV images collected from vineyards in the southern regions in France.
 
 The code is implemented in google colab.
